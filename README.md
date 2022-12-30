@@ -1,7 +1,7 @@
 
 # SNOW
 
-[SNOW](https://katherineoelsner.com/) basically makes your work easier by converting your text to handwriting and you can download it for free 🤩. You can also convert speech to word and then convert it into your handwriting👀.
+[SNOW](https://snow-text.netlify.app/) basically makes your work easier by converting your text to handwriting and you can download it for free 🤩. You can also convert speech to word and then convert it into your handwriting👀.
 
 ##  Font Convertor 🔁
 - Choose from 34 fonts that looks handwritten.
